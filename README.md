@@ -1,4 +1,4 @@
-Programa de Coleta e Armazenamento de Dados para sistemas trifasicos de energia
+oi Programa de Coleta e Armazenamento de Dados para sistemas trifasicos de energia
 
 Este repositório contém um programa para coleta, processamento, armazenamento  e apresentação de dados para uma rede de distribuição de energia trifasica.
 
@@ -46,17 +46,17 @@ Formato das Entradas
     Configure corretamente as entradas para evitar erros durante a coleta.
 
 🔑 Caracteres de Identificação para Envio
-Sinal	Caractere
-Tensão Fase A	!
-Tensão Fase B	@
-Tensão Fase C	#
-Corrente Fase A	&
-Corrente Fase B	%
-Corrente Fase C	?
-FP Fase A	<
-FP Fase B	>
-FP Fase C	*
-Separador	-
+
+     Tensão Fase A	"!"
+     Tensão Fase B	"@"
+     Tensão Fase C	"#"
+     Corrente Fase A	 "&"
+     Corrente Fase B	 "%"
+     Corrente Fase C	 "?"
+     FP Fase A	"<"
+     FP Fase B	">"
+     FP Fase C	"*"
+    Separador	"/n"
 
 🛡️ Licença
 
