@@ -1,4 +1,4 @@
-oi Programa de Coleta e Armazenamento de Dados para sistemas trifasicos de energia
+Programa de Coleta e Armazenamento de Dados para sistemas trifasicos de energia
 
 Este repositório contém um programa para coleta, processamento, armazenamento  e apresentação de dados para uma rede de distribuição de energia trifasica.
 
